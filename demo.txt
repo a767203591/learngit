@@ -1,1 +1,2 @@
 love you is my life just like you love me  hahahahaha
+Git has a mutable index called stage.
